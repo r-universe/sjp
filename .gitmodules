@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "selectr"]
+	path = selectr
+	url = https://github.com/sjp/selectr
+	shallow = true
+	registered = true
